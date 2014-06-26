@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8FE30007-9B13-40DD-9500-C2A466B83C56</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VisualPlayground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B4585BD8-F8F3-43EC-98B1-BEB7F2B906B5</key>
+		<string>https://github.com/madapper/MAVisualPlayground.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VisualPlaygroundDemo/VisualPlayground.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B4585BD8-F8F3-43EC-98B1-BEB7F2B906B5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/madapper/MAVisualPlayground.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B4585BD8-F8F3-43EC-98B1-BEB7F2B906B5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B4585BD8-F8F3-43EC-98B1-BEB7F2B906B5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MAVisualPlayground</string>
+		</dict>
+	</array>
+</dict>
+</plist>
